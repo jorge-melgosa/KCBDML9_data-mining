@@ -3,7 +3,7 @@
 
 ##Practica
 ### Enunciado:
-Debemos de resolver las preguntas planteadas en el [notebook de jupyter](https://jupyter.org/) llamado Practica-NombreAlumno.ipynb
+Debemos de resolver las preguntas planteadas en el [notebook de jupyter](https://jupyter.org/) llamado [Practica-NombreAlumno.ipynb](https://github.com/jorge-melgosa/KCBDML9_data-mining/blob/main/Practica-NombreAlumno.ipynb)
 
 ### Resumen de la implementación:
-Hemos realizado las respuestas en un nuevo [notebook de jupyter](https://jupyter.org/) llamado Practica-Mel-JorgeMelgosa.ipynb
+Hemos realizado las respuestas en un nuevo [notebook de jupyter](https://jupyter.org/) llamado [Practica-Mel-JorgeMelgosa.ipynb](https://github.com/jorge-melgosa/KCBDML9_data-mining/blob/main/Practica-Mel-JorgeMelgosa.ipynb)
